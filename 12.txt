@@ -1,0 +1,6 @@
+  <jsp:setProperty name="sesionActual" property="rol" value="<%=RolIn%>"/>
+        <jsp:setProperty name="sesionActual" property="jefe" value="<%=JefeIn%>"/>
+
+
+ <!-- <td>Rol:</td><td><jsp:setProperty name="sesionActual" property="rol"/> </td>-->
+              <!--  <td>Jefe:</td><td><jsp:setProperty name="sesionActual" property="jefe"/> </td>-->
